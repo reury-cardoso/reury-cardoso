@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato com comigo: ⤵️
+  📢 Entre em contato com comigo: ⤵️
 </p>
 
 <p align="left">
