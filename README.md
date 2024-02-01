@@ -19,7 +19,7 @@
 <br>
 
 <p align="left"> 
-  Sou o Reury, <strong>Aprendiz Tech - Dev</strong>.<br>
+  Sou o Reury, <strong>Developer 🚀💻🌐 - Dev</strong>.<br>
   Estou a adquirir conhecimento e desenvolver habilidades no campo da programação, em específico Front e Back-end.
 </p>
 
