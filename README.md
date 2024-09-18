@@ -38,3 +38,13 @@
   <a href="https://www.instagram.com/reury.cardoso/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p> 
+
+<h3 align="left">Languages and Tools:</h3>
+
+## Minhas Estatísticas
+<p>
+<a href="https://github.com/reury-cardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reury-cardoso&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reury-cardoso&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
