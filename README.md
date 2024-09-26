@@ -13,31 +13,20 @@
 
 <p align="left"> 
   Sou o Reury, <strong>Developer 🚀💻🌐 - Dev</strong>.<br>
-  Estou a adquirir conhecimento e desenvolver habilidades no campo da programação, em específico Front e Back-end.
+  Desenvolvedor Full Stack em formação. Tenho conhecimento em desenvolvimento Front-end com HTML, CSS, JavaScript e React, além de habilidades no Back-end usando Node.js, Express, Sequelize e bancos de dados relacionais (SQL).
 </p>
 
-<p align="left">
-  🧑‍💻 Linguagens: <strong>JavaScript | Python | HTML | CSS </strong>
-</p>
+## Use To Code
 
-<p align="left">
-  💼 Ferramentas: <strong>Photoshop | Figma | Git </strong>
-</p>
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">
-  📢 Entre em contato com comigo: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:reurycardoso@googlegroups.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/reurylima/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://www.instagram.com/reury.cardoso/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 
