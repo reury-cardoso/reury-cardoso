@@ -23,15 +23,6 @@ Participei do **Programadores do Amanhã**, onde desenvolvi experiência em trab
 - 🚢 **Sistemas em produção:** entregas frequentes, correção de bugs e novas funcionalidades preservando o que já estava em funcionamento
 - 🛠️ **Infra e suporte:** redes, Linux e Docker, o que me ajuda a entender a perspectiva de quem utiliza o sistema
 
-### Trajetória
-
-| Quando | O que aconteceu |
-| --- | --- |
-| 2022 | Curso de informática, o primeiro contato com sistemas e ferramentas |
-| 2023 | Início da formação Full Stack JavaScript no Programadores do Amanhã |
-| 2024 | Hackathon PdA + Onfly (1º lugar) e início da graduação em ADS |
-| 2025 | Técnico em Informática no IFPA e primeira experiência profissional como desenvolvedor |
-
 ### Fora do código
 
 Tenho interesse em automação, hardware e inteligência artificial, áreas em que gosto de experimentar e aprender na prática.
