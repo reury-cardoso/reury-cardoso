@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Oi! Eu sou o Reury, dev de **Abaetetuba, no Pará**. Minha história na tecnologia começou em 2022, num curso de informática, e desde então eu só fui ficando mais curioso. Hoje trabalho com desenvolvimento full stack, e o que mais me prende é ver uma ideia sair do papel e virar algo que as pessoas realmente usam.
+Oi! Eu sou o Reury, dev full stack. Minha história na tecnologia começou em 2022, num curso de informática, e desde então eu só fui ficando mais curioso. Hoje o que mais me prende é ver uma ideia sair do papel e virar algo que as pessoas realmente usam.
 
 Passei pelo **Programadores do Amanhã**, onde aprendi a trabalhar em squad, liderei projetos finais e ainda levei, com a minha equipe, o **1º lugar no hackathon PdA + Onfly**. Em paralelo, me formei em **Análise e Desenvolvimento de Sistemas (UNAMA)** e concluí o técnico em Informática no **IFPA**.
 
