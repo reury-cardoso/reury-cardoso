@@ -12,29 +12,29 @@
 
 ## Sobre mim
 
-Oi! Eu sou o Reury, dev full stack. Minha história na tecnologia começou em 2022, num curso de informática, e desde então eu só fui ficando mais curioso. Hoje o que mais me prende é ver uma ideia sair do papel e virar algo que as pessoas realmente usam.
+Sou o Reury, desenvolvedor full stack. Minha trajetória na tecnologia começou em 2022, com um curso de informática, e desde então venho me aprofundando em desenvolvimento de software. Meu maior interesse é transformar ideias em soluções que as pessoas realmente utilizam.
 
-Passei pelo **Programadores do Amanhã**, onde aprendi a trabalhar em squad, liderei projetos finais e ainda levei, com a minha equipe, o **1º lugar no hackathon PdA + Onfly**. Em paralelo, me formei em **Análise e Desenvolvimento de Sistemas (UNAMA)** e concluí o técnico em Informática no **IFPA**.
+Participei do **Programadores do Amanhã**, onde desenvolvi experiência em trabalho em equipe, liderei projetos finais e conquistei, com minha equipe, o **1º lugar no hackathon PdA + Onfly**. Paralelamente, concluí a graduação em **Análise e Desenvolvimento de Sistemas (UNAMA)** e o técnico em Informática no **IFPA**.
 
 ### O que eu faço
 
 - 🎨 **Front-end:** interfaces com **Angular, React e Next.js**, cuidando tanto do visual quanto de formulários, permissões e upload de arquivos
 - ⚙️ **Back-end:** APIs REST com **.NET (C#), Node.js, Express e NestJS**, usando **MongoDB** e **PostgreSQL**
-- 🚢 **Sistemas em produção:** entregas frequentes, bugs para caçar e funcionalidades novas sem derrubar o que já estava funcionando
-- 🛠️ **Infra e suporte:** redes, Linux e Docker, o que me ajuda a entender o problema de quem está do outro lado da tela
+- 🚢 **Sistemas em produção:** entregas frequentes, correção de bugs e novas funcionalidades preservando o que já estava em funcionamento
+- 🛠️ **Infra e suporte:** redes, Linux e Docker, o que me ajuda a entender a perspectiva de quem utiliza o sistema
 
-### Por onde passei
+### Trajetória
 
 | Quando | O que aconteceu |
 | --- | --- |
 | 2022 | Curso de informática, o primeiro contato com sistemas e ferramentas |
 | 2023 | Início da formação Full Stack JavaScript no Programadores do Amanhã |
 | 2024 | Hackathon PdA + Onfly (1º lugar) e início da graduação em ADS |
-| 2025 | Técnico em Informática no IFPA e minha primeira experiência como desenvolvedor |
+| 2025 | Técnico em Informática no IFPA e primeira experiência profissional como desenvolvedor |
 
 ### Fora do código
 
-Gosto de montar coisas só para ver como funcionam: automação, hardware e inteligência artificial são meus campos de experimento favoritos.
+Tenho interesse em automação, hardware e inteligência artificial, áreas em que gosto de experimentar e aprender na prática.
 
 ## Stack
 
@@ -74,8 +74,8 @@ Gosto de montar coisas só para ver como funcionam: automação, hardware e inte
   <sub>Mais projetos em <a href="https://github.com/reury-cardoso?tab=repositories">github.com/reury-cardoso</a></sub>
 </div>
 
-## Bora trocar uma ideia?
+## Contato
 
-Se você curte conversar sobre código, projetos ou tecnologia, chega junto pelo [LinkedIn](https://www.linkedin.com/in/reurylima). Vou gostar de saber o que você anda construindo.
+Se quiser conversar sobre projetos, colaborações ou tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/reurylima).
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7e9cff,55:3b4a8f,100:0a0c11&section=footer" />
