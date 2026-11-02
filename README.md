@@ -2,12 +2,6 @@
 
 <img width="100%" alt="Reury Lima — Desenvolvedor Fullstack" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0a0c11,55:3b4a8f,100:7e9cff&text=Reury%20Lima&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Desenvolvedor%20Fullstack&descAlignY=58&descSize=22&animation=fadeIn" />
 
-<a href="https://github.com/reury-cardoso">
-  <img alt="Digitando..." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=7E9CFF&center=true&vCenter=true&width=720&height=30&lines=Oi%2C+eu+sou+o+Reury+%F0%9F%91%8B;Escrevo+c%C3%B3digo+direto+de+Abaetetuba%2C+no+Par%C3%A1;Front+com+Angular+e+React%2C+back+com+.NET+e+Node;Curioso+por+natureza%3A+do+software+ao+hardware;Se+tem+um+bug+no+caminho%2C+eu+vou+atr%C3%A1s" />
-</a>
-
-<br />
-
 <a href="https://www.linkedin.com/in/reurylima"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-reurylima-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/reury-cardoso?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-reury--cardoso-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- <a href="https://portfolio.rydevbr.com"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-rydevbr.com-7e9cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
