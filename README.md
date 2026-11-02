@@ -3,7 +3,7 @@
 <img width="100%" alt="Reury Lima — Desenvolvedor Fullstack" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0a0c11,55:3b4a8f,100:7e9cff&text=Reury%20Lima&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Desenvolvedor%20Fullstack&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <a href="https://github.com/reury-cardoso">
-  <img alt="Digitando..." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=7E9CFF&center=true&vCenter=true&width=640&lines=Transformo+problemas+reais+em+solu%C3%A7%C3%B5es+digitais;Angular+%C2%B7+.NET+%C2%B7+React+%C2%B7+Node.js;Gosto+de+entender+o+problema+antes+do+c%C3%B3digo" />
+  <img alt="Digitando..." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=7E9CFF&center=true&vCenter=true&width=720&height=30&lines=Oi%2C+eu+sou+o+Reury+%F0%9F%91%8B;Escrevo+c%C3%B3digo+direto+de+Abaetetuba%2C+no+Par%C3%A1;Front+com+Angular+e+React%2C+back+com+.NET+e+Node;Curioso+por+natureza%3A+do+software+ao+hardware;Se+tem+um+bug+no+caminho%2C+eu+vou+atr%C3%A1s" />
 </a>
 
 <br />
@@ -18,12 +18,29 @@
 
 ## Sobre mim
 
-Sou de **Abaetetuba, no Pará**, e trabalho com desenvolvimento full stack. Sou formado em **Análise e Desenvolvimento de Sistemas (UNAMA)**, tenho o técnico em Informática pelo **IFPA** e fiz a formação Full Stack do **Programadores do Amanhã**, onde liderei squads de projetos finais e fui **1º lugar no hackathon PdA + Onfly**.
+Oi! Eu sou o Reury, dev de **Abaetetuba, no Pará**. Minha história na tecnologia começou em 2022, num curso de informática, e desde então eu só fui ficando mais curioso. Hoje trabalho com desenvolvimento full stack, e o que mais me prende é ver uma ideia sair do papel e virar algo que as pessoas realmente usam.
 
-- 🧩 Já trabalhei em um sistema em produção com **Angular e .NET**: novas funcionalidades, regras de negócio e correções que não podiam quebrar o que já funcionava
-- 🌐 Nos projetos pessoais e de formação, construo com **React, Node.js e Express**
-- 🛠️ Também tenho experiência com **suporte técnico, redes e infraestrutura**, o que me ajuda a olhar para quem está do outro lado da tela
-- 🔬 Fora do trabalho, gosto de testar ideias e entender como as coisas funcionam, de automação e hardware a inteligência artificial
+Passei pelo **Programadores do Amanhã**, onde aprendi a trabalhar em squad, liderei projetos finais e ainda levei, com a minha equipe, o **1º lugar no hackathon PdA + Onfly**. Em paralelo, me formei em **Análise e Desenvolvimento de Sistemas (UNAMA)** e concluí o técnico em Informática no **IFPA**.
+
+### O que eu faço
+
+- 🎨 **Front-end:** interfaces com **Angular, React e Next.js**, cuidando tanto do visual quanto de formulários, permissões e upload de arquivos
+- ⚙️ **Back-end:** APIs REST com **.NET (C#), Node.js, Express e NestJS**, usando **MongoDB** e **PostgreSQL**
+- 🚢 **Sistemas em produção:** entregas frequentes, bugs para caçar e funcionalidades novas sem derrubar o que já estava funcionando
+- 🛠️ **Infra e suporte:** redes, Linux e Docker, o que me ajuda a entender o problema de quem está do outro lado da tela
+
+### Por onde passei
+
+| Quando | O que aconteceu |
+| --- | --- |
+| 2022 | Curso de informática, o primeiro contato com sistemas e ferramentas |
+| 2023 | Início da formação Full Stack JavaScript no Programadores do Amanhã |
+| 2024 | Hackathon PdA + Onfly (1º lugar) e início da graduação em ADS |
+| 2025 | Técnico em Informática no IFPA e minha primeira experiência como desenvolvedor |
+
+### Fora do código
+
+Gosto de montar coisas só para ver como funcionam: automação, hardware e inteligência artificial são meus campos de experimento favoritos.
 
 ## Stack
 
@@ -63,8 +80,8 @@ Sou de **Abaetetuba, no Pará**, e trabalho com desenvolvimento full stack. Sou 
   <sub>Mais projetos em <a href="https://github.com/reury-cardoso?tab=repositories">github.com/reury-cardoso</a></sub>
 </div>
 
-## Vamos conversar
+## Bora trocar uma ideia?
 
-Tem uma ideia ou um desafio? Me chama pelo [LinkedIn](https://www.linkedin.com/in/reurylima).
+Se você curte conversar sobre código, projetos ou tecnologia, chega junto pelo [LinkedIn](https://www.linkedin.com/in/reurylima). Vou gostar de saber o que você anda construindo.
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7e9cff,55:3b4a8f,100:0a0c11&section=footer" />
