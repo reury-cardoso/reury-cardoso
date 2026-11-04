@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/reurylima"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-reurylima-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/reury-cardoso?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-reury--cardoso-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- <a href="https://portfolio.rydevbr.com"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-rydevbr.com-7e9cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
+<a href="https://portfolio.rydevbr.com"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-rydevbr.com-7e9cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
