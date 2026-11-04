@@ -67,6 +67,6 @@ Tenho interesse em automação, hardware e inteligência artificial, áreas em q
 
 ## Contato
 
-Se quiser conversar sobre projetos, colaborações ou tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/reurylima).
+Se quiser conversar sobre projetos, colaborações ou tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/reurylima) ou veja mais no meu [portfólio](https://portfolio.rydevbr.com).
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7e9cff,55:3b4a8f,100:0a0c11&section=footer" />
